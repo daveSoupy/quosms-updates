@@ -1,1 +1,14 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bulk TuffWrap SMS</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 06 May 2026 10:44:35 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://davesoupy.github.io/quosms-updates/Bulk%20TuffWrap%20SMS.zip" length="3883170" type="application/octet-stream" sparkle:edSignature="JTxpiLUiOAaudyRxDy5JlCaR+G3ZKRG0PjPESHUN861766LIhKPCTmF9ahZ83uvUYhqGQ+UN1QpBn+0/S17QCw=="/>
+        </item>
+    </channel>
+</rss>
