@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Bulk TuffWrap SMS</title>
+        <title>Bulk TuffWrap SMS </title>
         <item>
             <title>1.0.1</title>
             <pubDate>Wed, 06 May 2026 10:44:35 -0400</pubDate>
