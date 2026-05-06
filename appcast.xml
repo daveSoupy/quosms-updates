@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/davesoupy/quosms-updates/releases/download/v1.1/Bulk%20TuffWrap%20SMS.zip" length="3888257" type="application/octet-stream" sparkle:edSignature="ned2wCpxwN+ZD5NEcXx1rXIo/crsRvX6I4rPQ2/vLMg3SlETANGOWhV8pVJugAG6IDak3PnJRZ++4yfdIvmxAQ=="/>
+            <enclosure url="https://github.com/davesoupy/quosms-updates/releases/download/v1.1/Bulk.TuffWrap.SMS.zip" length="3888257" type="application/octet-stream" sparkle:edSignature="ned2wCpxwN+ZD5NEcXx1rXIo/crsRvX6I4rPQ2/vLMg3SlETANGOWhV8pVJugAG6IDak3PnJRZ++4yfdIvmxAQ=="/>
         </item>
     </channel>
 </rss>
