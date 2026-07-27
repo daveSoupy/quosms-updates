@@ -6,7 +6,7 @@
     <description>Small updates and bug patches</description>
     <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
 	<enclosure
-        url="https://github.com/davesoupy/quosms-updates/releases/v1.1.1/TuffWrap-SMS.zip"
+        url="https://github.com/davesoupy/quosms-updates/releases/download/v1.1.1/TuffWrap-SMS.zip"
         sparkle:edSignature="ZP75mJC8EOaUproJIHx+fBy6dq/TEpkSTVXl2fXpMXFmNzewZOiPOgP9xnYJK/RIHhQsH/j0mKE8tYJU3isVAw=="
         length="3901059"
         type="application/octet-stream" />
